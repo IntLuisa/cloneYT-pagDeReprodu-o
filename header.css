@@ -1,0 +1,29 @@
+header{
+    position: sticky;
+    display: flex;
+    justify-content: space-around;
+}
+
+#cantoSupL{
+    height: 30px;
+    width: 60px;
+    display: flex;
+}
+form{
+    border-radius: 10%;
+}
+#yt{
+    object-fit: cover;
+}
+img{
+    margin: 3px;
+}
+#cantoSupR{
+    height: 30px;
+    width: 60px;
+    display: flex;
+}
+#perfil{
+    border-radius: 100%;
+}
+
